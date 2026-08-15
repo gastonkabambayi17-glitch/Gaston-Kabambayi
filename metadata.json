@@ -1,0 +1,7 @@
+{
+  "name": "Gaston Love",
+  "description": "Plateforme moderne et élégante de rencontre pour adultes 18+.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
